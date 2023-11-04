@@ -3,20 +3,20 @@ Hello, I'm Ritvash Debnath, a 4th-year student pursuing a BS-MS degree with a ma
 My academic journey has been marked by a relentless pursuit of knowledge. As I approach the final year of my undergraduate studies, I'm proud to have engaged in many wonderful physics courses and research projects that have expanded our understanding of the universe.
 I'm an aspiring astrophysicist, and my experiences at IISER Pune have fueled my ambition to make significant contributions to the field of astrophysics. The thrill of discovery and the quest for deeper insights into the workings of the universe continue to guide my path. With each passing day, I'm one step closer to realizing my dreams and leaving my mark on the scientific community, unraveling the secrets of the cosmos.
 
-#Courses 
+# Courses 
 List of all courses taken at IISER 
-##Physics 
+##  Physics 
 Introductory Mechanics, World of Physics 2 - Electricity and Magnetism, Physics Lab-I, Introductory Quantum
 Physics, Mathematical Methods for Physics (E), Classical Mechanics (E), Thermal & Statistical Physics, Physics Lab - II, Electrodynamics - I, Quantum Mechanics - I, Optics, Electronics - I with lab, Mathematical Methods for Physics II, Condensed Matter Physics- I, Statistical mechanics- I, Quantum mechanics- II, Physics Lab IV, Astrophysics-I, Gravitation, Quantum Field Theory-I, Fluid Dynamics, Physics Lab-V, Nuclear and Particle Physics, Cosmology, Gravitation-II, Atomic and Molecular Physics, Non-Linear Dynamics, Astrophysics-II
-##Climate Science
+##  Climate Science
 Evolution of Earth and Life, Physics of the Atmosphere, Principles of Planetary Climate, Introduction to Climate
 Science, Geophysical Fluid Dynamics
-##Biology 
+##  Biology 
 Introductory Biology - I, Introduction to Biomolecules, Experiments in Biology, Ecology and Evolution, Introduction
 to Biological Systems (E), Physiology, Genetics
-##Mathematics
+##  Mathematics
 Calculus - I, Calculus II, Linear Algebra
-##Chemistry
+##  Chemistry
 Principles of Organic Chemistry, Principles of Physical Chemistry, General Chemistry Practicals I, Principles of
 Inorganic Chemistry
 ##Others
