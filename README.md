@@ -22,3 +22,21 @@ Inorganic Chemistry
 ##Others
 History Of Science, Academic Communication Skills, Science and Society, Introduction to computer programing,
 Thermodynamics, Data Analysis
+
+# Research Projects
+## Summer Intern (2023) 
+Dr. Veeresh Singh (Assistant Professor) [ 05/2023 – 07/2023 ] 
+Physical Research Laboratory (PRL), Ahmedabad 
+To Study the nature of radio-loud Active Galactic Nuclei. The project involves understanding the evolutionary
+stage of radio jet in AGN and the nature of host galaxy using multi-wavelength observations and modeling broad
+band spectral energy distribution.
+Semester Project Student (Fall 2022) 
+## Dr. T S Mahesh (Professor) [ 08/2022 – 11/2022 ] 
+IISER Pune 
+This project aimed to gain a basic understanding of
+quantum information and computation. To study the different
+aspects of it - algorithms, Bell states, teleportation, etc. Finally, to reproduce results from various research papers using Python and Qiskit.
+## Summer Intern (2022) 
+Dr. Ashish Arora (Assistant Professor) [ 05/2022 – 07/2022 ] 
+IISER Pune 
+Reading projects on the Special Theory of Relativity from various books and research papers to build up for advanced courses. Followed by a computational project ( using Python) to find out the energy eigenstates of electrons and holes in a finite quantum well and their variations with well-width and other factors. Further, solving the transition energies for AlGaAs semiconductor to check the experimental results from Ashish Arora's 2013 paper on the same.
